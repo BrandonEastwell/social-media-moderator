@@ -1,0 +1,12 @@
+60730027 leslie winkle 304 8
+30015494 bart simpson 439 10
+31064071 lisa simpson 440 11
+34865169 wayne rooney 640 16
+10950582 tom cruise 1620 20
+15990804 cristiano ronaldo 2247 21
+29753356 john terry 874 23
+22743516 monty python 1120 28
+30304 homer simpson 100 100
+29258095 brandon eastwell 100 100
+0001 nicola tesla
+0002 albert einstein
